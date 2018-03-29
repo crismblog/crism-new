@@ -1,4 +1,4 @@
 # crism-new
 www.crism.ro
 
-Site html ceat de la zero de Alexe-Cristian Moldovan
+Site HTML 5, CSS3 și JavaScript creat de la zero de Alexe-Cristian Moldovan.
