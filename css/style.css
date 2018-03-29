@@ -122,21 +122,15 @@ nav a:hover, nav a:active {
 
 /* Setare cutie */
 .box {
-  float: left;
+  float: center;
   border: 1px solid #006bb3;
-  box-shadow: 5px 10px #888888;
-}
-
-.box2 {
-  float: right;
-  border: 1px solid #006bb3;
-  box-shadow: 5px 10px #888888;
+  box-shadow: 4px 4px #888888;
 }
 
 /* Setare titluri H2, H3 etc */
 h2, h3 {
     font-family: monospace;
-    text-shadow: 4px 4px 4px #aaa;
+    text-shadow: px 4px 4px #aaa;
 }
 
 /* Setare tabel */
