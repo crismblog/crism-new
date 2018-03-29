@@ -8,44 +8,104 @@
 
 
 <url>
-  <loc>https://crism.ro/</loc>
-  <lastmod>2018-03-26T17:00:17+00:00</lastmod>
+  <loc>https://www.crism.ro/</loc>
+  <lastmod>2018-03-29T17:50:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://crism.ro/index.html</loc>
-  <lastmod>2018-03-26T17:00:17+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://crism.ro/depanare.html</loc>
-  <lastmod>2018-03-26T17:00:18+00:00</lastmod>
+  <loc>https://www.crism.ro/index.html</loc>
+  <lastmod>2018-03-29T17:50:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://crism.ro/jurnal.html</loc>
-  <lastmod>2018-03-26T19:30:55+00:00</lastmod>
+  <loc>https://www.crism.ro/depanare.html</loc>
+  <lastmod>2018-03-29T17:50:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://crism.ro/recomandare.html</loc>
-  <lastmod>2018-03-26T17:00:17+00:00</lastmod>
+  <loc>https://www.crism.ro/jurnal.html</loc>
+  <lastmod>2018-03-29T17:50:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://crism.ro/jurnal/linux/istoria-gnu-linux-pe-scurt.html</loc>
-  <lastmod>2018-03-26T19:28:28+00:00</lastmod>
+  <loc>https://www.crism.ro/recomandare.html</loc>
+  <lastmod>2018-03-29T17:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/Redcore_Linux-Ghidul_utilizatorului.pdf</loc>
+  <lastmod>2018-01-02T19:18:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/android.html</loc>
+  <lastmod>2018-03-29T18:19:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://crism.ro/jurnal/android/suamp-asculti-muzica-de-pe-youtube-cu-ecranul-stins.html</loc>
-  <lastmod>2018-03-26T19:28:27+00:00</lastmod>
+  <loc>https://www.crism.ro/jurnal/diverse.html</loc>
+  <lastmod>2018-03-29T18:19:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://crism.ro/jurnal/internet/cat-te-costa-sa-te-abonezi-la-platformele-online-pentru-continut.html</loc>
-  <lastmod>2018-03-26T19:28:28+00:00</lastmod>
+  <loc>https://www.crism.ro/jurnal/internet.html</loc>
+  <lastmod>2018-03-29T18:19:02+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/linux.html</loc>
+  <lastmod>2018-03-29T18:19:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/vlog.html</loc>
+  <lastmod>2018-03-29T18:19:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/android/suamp-asculti-muzica-de-pe-youtube-cu-ecranul-stins.html</loc>
+  <lastmod>2018-03-29T18:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/diverse/cum-sa-iti-protejezi-confidentialitatea.html</loc>
+  <lastmod>2018-03-29T18:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/internet/cat-te-costa-sa-te-abonezi-la-platformele-online-pentru-continut.html</loc>
+  <lastmod>2018-03-29T18:19:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/internet/cum-poti-crea-melodii-numai-din-navigator.html</loc>
+  <lastmod>2018-03-29T18:19:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/internet/anonimitate-cu-ajutorul-navigatorului-de-internet.html</loc>
+  <lastmod>2018-03-29T18:19:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/internet/anonimitate-prin-motorul-de-cautare.html</loc>
+  <lastmod>2018-03-29T18:19:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/linux/istoria-gnu-linux-pe-scurt.html</loc>
+  <lastmod>2018-03-29T18:19:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/vlog/suport-de-telefon-pentru-birou.html</loc>
+  <lastmod>2018-03-29T18:19:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.crism.ro/jurnal/vlog/aplicatii-de-editare-a-clipurilor-pentru-android.html</loc>
+  <lastmod>2018-03-29T18:19:02+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
