@@ -167,13 +167,15 @@ blockquote p {
   display: inline;
 }
 
-/* Setare imagini */
-.image {
-  display: block;
-    margin-left: auto;
-    margin-right: auto;
+/* Setare imagine */
+img {
+  width: 500px;
 }
-
+@media (max-width: 500px) {
+  img {
+    width: 250px;
+  }
+}
 /* Setare clip video */
 #video {
   position:relative;
