@@ -210,6 +210,8 @@ pre, code {
  	white-space: -o-pre-wrap; 
  	word-wrap: break-word; 
  	width:100%; overflow-x:auto;
+ 	font-size: 0.8em;
+	font-family: monospace;
 }
 
 /* Setare subsol */
