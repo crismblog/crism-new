@@ -39,6 +39,7 @@ Disallow: /css/
 Disallow: /joc/
 Disallow: /agga.html
 Disallow: /start.html
+Disallow: /magazine.html
 Allow: /
 
 Sitemap: https://crism.ro/sitemap.xml
